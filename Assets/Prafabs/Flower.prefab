@@ -76,13 +76,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 3465286685962602723, guid: 2b1c046ff651fd844b5a0e7d25ce3d56, type: 3}
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: 7c83f5a959072914897c03be97cfdf12, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 20.48, y: 20.48}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -101,22 +101,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   state: 0
-  lifeSpan: 100
-  nectarMax: 100
-  nectarRegenPerSec: 0
-  attractRadius: 6
-  harvestInvincibleTime: 0
-  wiltDuration: 10
-  wiltColor: {r: 0.6, g: 0.6, b: 0.6, a: 0.85}
-  wiltScale: 0.8
+  lifeSpan: 50
   spawnOnSeed: 1
-  seedPrefab: {fileID: 0}
-  seedSpawnCount: 1
-  seedSpawnRadius: 4
+  seedPrefab: {fileID: 1439383156273827444, guid: 5b6510461701e90458c34bdc09543d2b, type: 3}
+  seedSpawnRadius: 2.97
   seedPause: 0.5
-  swayAmplitude: 3
-  swayFrequency: 0.5
+  wiltDuration: 5
+  wiltScale: 0.8
+  swayAmplitude: 10
+  swayFrequency: 1
   bobAmplitude: 0.05
   bobFrequency: 1.5
-  bloomSprite: {fileID: 0}
-  wiltSprite: {fileID: 0}
+  bloomSprite: {fileID: 21300000, guid: 7c83f5a959072914897c03be97cfdf12, type: 3}
+  wiltSprite: {fileID: 21300000, guid: 74e941b36770ae241803b92c893b096d, type: 3}

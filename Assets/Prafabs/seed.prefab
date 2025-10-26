@@ -76,8 +76,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: 332552d200a65a5448a93370d14027e5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -102,6 +102,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   state: 0
   germinationDelay: 2
-  growDuration: 1
+  growDuration: 3
   growScaleRange: {x: 0.6, y: 1}
   flowerPrefab: {fileID: 6204982868088759516, guid: 185e7498a4342a84eb6cbd70059ef6be, type: 3}
+  growSprite: {fileID: 21300000, guid: 6ae9114d3a5a94d4ab32563614f9643f, type: 3}
+  seedSprite: {fileID: 21300000, guid: 332552d200a65a5448a93370d14027e5, type: 3}

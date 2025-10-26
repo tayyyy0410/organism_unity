@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 12cf4d58bd2327646882f8cab496b416
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6699802780127975070
+    second: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_0
+  - first:
+      213: -8002274283160409536
+    second: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_1
+  - first:
+      213: -817391726356583429
+    second: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_2
+  - first:
+      213: 5131617558988037951
+    second: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_3
+  - first:
+      213: -1133232681102991261
+    second: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_4
+  - first:
+      213: -3958173355084571652
+    second: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_5
+  - first:
+      213: 7077704470042225334
+    second: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_6
+  - first:
+      213: -1183761984852168566
+    second: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_7
+  - first:
+      213: -3118887022287856446
+    second: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_8
+  - first:
+      213: 7925028203573192577
+    second: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_0
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 506
+        width: 1039
+        height: 1047
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2692c495ed48503a0800000000000000
+      internalID: -6699802780127975070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_1
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 357
+        width: 163
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aeaf4ffe532f090800000000000000
+      internalID: -8002274283160409536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_2
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 500
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb2c2c3e8a08a4f0800000000000000
+      internalID: -817391726356583429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 455
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f93ae3bfa273740800000000000000
+      internalID: 5131617558988037951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_4
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 464
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3602ef271e2f540f0800000000000000
+      internalID: -1133232681102991261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 455
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb94ca0e4eb119c0800000000000000
+      internalID: -3958173355084571652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 421
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baaf0a57be093260800000000000000
+      internalID: 7077704470042225334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 300
+        width: 141
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8076422fbe629fe0800000000000000
+      internalID: -1183761984852168566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_8
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 306
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccd4fd17cc77b4d0800000000000000
+      internalID: -3118887022287856446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_9
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 373
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187aeec992b5bfd60800000000000000
+      internalID: 7925028203573192577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_0: -6699802780127975070
+      _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_1: -8002274283160409536
+      _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_2: -817391726356583429
+      _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_3: 5131617558988037951
+      _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_4: -1133232681102991261
+      _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_5: -3958173355084571652
+      _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_6: 7077704470042225334
+      _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_7: -1183761984852168566
+      _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_8: -3118887022287856446
+      _cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1214051118513252550&skey=@crypt_762dce25_21f5586dc663f2a30922d209ee552f2d&mmweb_appid=wx_webfilehelper_9: 7925028203573192577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

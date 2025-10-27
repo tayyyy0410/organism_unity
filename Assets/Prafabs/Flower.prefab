@@ -104,7 +104,7 @@ MonoBehaviour:
   lifeSpan: 50
   spawnOnSeed: 1
   seedPrefab: {fileID: 1439383156273827444, guid: 5b6510461701e90458c34bdc09543d2b, type: 3}
-  seedSpawnRadius: 2.97
+  seedSpawnRadius: 2.4
   seedPause: 0.5
   wiltDuration: 5
   wiltScale: 0.8

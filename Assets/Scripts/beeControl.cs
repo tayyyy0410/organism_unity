@@ -63,7 +63,7 @@ public class beeControl : MonoBehaviour
             case State.Adult:  AdultUpdate();  break;
             case State.Forage: ForageUpdate(); break;
             case State.Old:    OldUpdate();    break;
-            case State.Die: /*no-op*/          break;
+            case State.Die:         break;
         }
     }
 
